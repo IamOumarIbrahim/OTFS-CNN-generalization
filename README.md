@@ -13,8 +13,8 @@
 
 </div>
 
-
-**[IMPORTANT]** Work in progress: Code updates follow research progress. GRU and Mamba are postponed to focus solely on 1D time-domain representation, compared exclusively against 1D CNN.
+> [!TIP]
+> Work in progress: Code updates follow research progress. GRU and Mamba are postponed to focus solely on 1D time-domain representation, compared exclusively against 1D CNN.
 
 ## Project Structure
 
