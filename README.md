@@ -4,6 +4,8 @@
 
 [![PDF](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader&logoColor=white)](docs/manuscript/main.pdf)
 [![License](https://img.shields.io/github/license/IamOumarIbrahim/OTFS-CNN-generalization)](LICENSE)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-orange?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+
 
 **Oumar Ibrahim** and **Bassel Al Homssi**  
 *Department of Computer Engineering, University of Sharjah, Sharjah, UAE*  
